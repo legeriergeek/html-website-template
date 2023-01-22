@@ -1,0 +1,219 @@
+p
+{
+
+color: yellow;
+
+}
+
+h1
+{
+
+color: yellow;
+
+}
+
+li
+{
+
+color: brown;
+
+}
+
+p
+{
+    font-size: 20px;
+}
+
+
+
+
+li
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+
+a
+{
+    font-family: Comic Sans MS;
+}
+
+
+p
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+h2
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+h5
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+h1
+{
+    font-family: Comic Sans MS;
+}
+
+
+h1
+{
+    font-style: italic;
+}
+
+label
+{
+    font-family: Comic Sans MS;
+}
+
+
+label
+{
+    font-style: italic;
+}
+
+
+
+
+article
+{
+    border-radius: 10px 5px 10px 5px;
+}
+
+article
+{
+    box-shadow: 6px 6px 6px 6px black;
+}
+
+
+
+
+
+li
+{
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+a
+{
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+
+
+
+
+a 
+{
+   text-decoration: none;
+   color: yellow;
+   font-style: italic;
+}
+
+a:hover 
+{
+   text-decoration: underline;
+   color: brown;
+}
+
+
+
+
+
+
+
+
+a:active 
+{
+    background-color: #ABCDEF;
+}
+
+
+
+
+
+nav
+{
+border-radius: 10px 5px 10px 5px; 
+box-shadow: 2px 2px 2px 2px black;
+display: inline-block;
+
+}
+
+fieldset
+{
+border-radius: 10px 5px 10px 5px; 
+box-shadow: 2px 2px 2px 2px black;
+
+
+}
+
+
+
+
+
+img
+{
+
+
+margin: auto;
+
+
+}
+
+
+
+
+nav
+{
+    float: left;
+   
+}
+
+
+
+h2
+{
+    float: center;
+    
+}
+
+
+}
+
+img
+{
+float: center;
+
+}
+
+
+section
+{
+display: inline-block;
+}
+
+body  
+{
+background-color: lightblue;
+}
+
