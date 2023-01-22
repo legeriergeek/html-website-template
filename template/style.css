@@ -1,0 +1,241 @@
+p
+{
+
+color: yellow;
+
+}
+
+h1
+{
+
+color: yellow;
+
+}
+
+li
+{
+
+color: brown;
+
+}
+
+p
+{
+    font-size: 20px;
+}
+
+
+
+
+li
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+
+a
+{
+    font-family: Comic Sans MS;
+}
+
+
+p
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+h2
+{
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+
+
+h5
+{
+    font-family: Comic Sans MS;
+}
+
+
+
+h1
+{
+    font-family: Comic Sans MS;
+}
+
+
+h1
+{
+    font-style: italic;
+}
+
+label
+{
+    font-family: Comic Sans MS;
+}
+
+
+label
+{
+    font-style: italic;
+}
+
+
+
+
+article
+{
+    border-radius: 10px 5px 10px 5px;
+}
+
+article
+{
+    box-shadow: 6px 6px 6px 6px black;
+    text-align: center;
+
+}
+article
+{
+  text-align: center;
+}
+
+
+
+
+li
+{
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+a
+{
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+
+
+
+
+a 
+{
+   text-decoration: none;
+   color: yellow;
+   font-style: italic;
+   text-align: center;
+}
+
+a:hover 
+{
+   text-decoration: underline;
+   color: brown;
+}
+ 
+ul{
+  text-align: center;
+ }
+
+
+
+
+
+
+
+a:active 
+{
+    background-color: #ABCDEF;
+}
+
+
+
+
+
+nav
+{
+border-radius: 10px 5px 10px 5px; 
+box-shadow: 6px 6px 6px 6px black;
+display: inline-block;
+
+}
+
+
+
+
+
+img
+{
+
+
+margin: auto;
+
+
+}
+
+
+
+
+nav
+{
+    float: left;
+   
+}
+
+
+
+h2
+{
+    float: center;
+    
+}
+
+
+}
+
+img
+{
+float: center;
+
+}
+
+
+ul
+{
+display: inline-block;
+}
+
+body  
+{
+background-color: lightblue;
+}
+
+
+
+
+
+audio
+{
+    border-radius: 10px 5px 10px 5px;
+}
+
+audio
+{
+    box-shadow: 6px 6px 6px 6px black;
+}
+
+
+}
+h1
+{
+  float: center;
+}
